@@ -1,5 +1,4 @@
 # Multi-Exchange-Stock-Quote-Classifier
-# Multi-Exchange Stock Quote Classifier
 
 ## Overview
 This project is part of the Applied Machine Learning course and aims to analyze and predict the optimal currency/exchange for executing stock price quotes. The provided dataset contains a time series of bid and ask prices for a given stock traded multiple times per day in different currencies. The goal is to develop and compare several classification models to determine which currency offers the best price at each time point.
